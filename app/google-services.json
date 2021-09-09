@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049338094289",
+    "project_id": "social-media-app-c35d4",
+    "storage_bucket": "social-media-app-c35d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049338094289:android:f6e59dc011e272c76adbf0",
+        "android_client_info": {
+          "package_name": "com.thien.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049338094289-75qbmgvi1f97ft7av5frhstcfism4b1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLGLuQkoBHf_AvbPXRhy2T0hFGxeXeii4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049338094289-75qbmgvi1f97ft7av5frhstcfism4b1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
